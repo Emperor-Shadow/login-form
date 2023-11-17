@@ -1,0 +1,10 @@
+.fa-eye {
+  right: 15px;
+  bottom: 20px;
+}
+.login-btn{
+  background-image: linear-gradient(to bottom right , #02abb0 , #00cdac);
+}
+.login-header , .olw, .green{
+  color: #02abb0;
+}
